@@ -1,4 +1,4 @@
-An expense management web app created for managing expenses on daily basis.
+An expense management website created for managing expenses on daily basis.
 
 Used MERN (MongoDB, ExpressJs, ReactJs, NodeJs) stack.
 
